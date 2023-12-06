@@ -10,7 +10,7 @@ versionamento de codigo git e git hub da DIO. [DIO](https://web.dio.me/)
 ## 💻 Resumo das aulas
  
 
- | Aulas | Resumos
+ | Aulas | Resumo
  |-------|--------| 
  | [Salvando alterações no repositório local](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/potencia-tech-ifood-programacao-do-zero&tab=undefined&moduleId=undefined)| 
 
